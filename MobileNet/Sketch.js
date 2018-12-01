@@ -19,8 +19,8 @@ function gotResults(error, results) {
         //fill(0);
         //textSize(100);
         //text(label, 10, height - 100);
-        createP(label);
-        createP(prob);
+        createP('name of the object : ' + label);
+        createP('probability of object : ' + prob);
     }
 }
 
