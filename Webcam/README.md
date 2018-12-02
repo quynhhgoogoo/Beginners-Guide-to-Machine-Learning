@@ -1,4 +1,4 @@
-## Webcam object recognition
+## Lesson 2 : Webcam object recognition
 
 This is a simple object recognition program using webcam with the help of ml5.js library and MobileNet module<br>
 
