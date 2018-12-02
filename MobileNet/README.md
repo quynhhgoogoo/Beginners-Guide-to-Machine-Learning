@@ -1,4 +1,4 @@
-## Image classifier
+## Lesson 1 : Image classifier
 This is a simple image classifier program using MobileNet provided by ml5.js library
 <br>
 This program receive image and give a prediction to guess the object name and its correct probability
